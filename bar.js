@@ -1,1 +1,1 @@
-const bar = {};
+console.log("abc");
